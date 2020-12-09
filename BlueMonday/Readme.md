@@ -1,4 +1,4 @@
 Blue Monday
 ----------
 
-![gif](art/blurmonday.gif)
+![gif](art/bluemonday.gif)
