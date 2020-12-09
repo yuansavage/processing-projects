@@ -1,4 +1,4 @@
-sincos pattern 
+Sincos pattern 
 ----------
 
 ![gif](art/sincos.gif)
