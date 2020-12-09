@@ -1,4 +1,4 @@
 sincos pattern 
 ----------
 
--![Sample Gif](https://i.imgur.com/qqyjeI5.gif)
++<img src="/art/sincos.gifraw=true" width="200px">
