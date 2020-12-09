@@ -1,4 +1,4 @@
 Black hole
 ----------
 
-![gif](https://i.imgur.com/tsV89Pi.gifv)
+![gif](https://i.imgur.com/InrgStZ.gif)
