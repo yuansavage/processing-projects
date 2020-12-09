@@ -1,4 +1,4 @@
 Blue Monday
 ----------
 
-![gif](https://i.imgur.com/InrgStZ.gif)
+![gif](art/blurmonday.gif)
