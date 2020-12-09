@@ -1,4 +1,4 @@
-Black hole
+sincos pattern 
 ----------
 
-![gif](https://i.imgur.com/InrgStZ.gif)
+![gif](https://i.imgur.com/OR0BZba.gif)
