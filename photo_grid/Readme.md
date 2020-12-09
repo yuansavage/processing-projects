@@ -1,4 +1,4 @@
-Black hole
+Photo grid
 ----------
 
-![gif](https://i.imgur.com/InrgStZ.gif)
+![gif](https://i.imgur.com/xNxYtYh.gif)
